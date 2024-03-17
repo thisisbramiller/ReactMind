@@ -15,6 +15,7 @@ const App = () => {
             <Features />
             <Possibility />
             <CTA />
+            <Blog />
         </div>
     );
 }
