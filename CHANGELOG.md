@@ -2,6 +2,62 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 0.2.0 (2024-03-18)
+
+
+### Features
+
+* :bento: add assets ([0d335ef](https://github.com/thisisbramiller/react-mind/commit/0d335ef20757b3d8393889eb89523926c090c59f))
+* :lipstick: add article component ([0ded1fc](https://github.com/thisisbramiller/react-mind/commit/0ded1fc580558b0bcdd43ee0c86f18dd0602d24b))
+* :lipstick: add basic structure for Navbar component ([c8b15d6](https://github.com/thisisbramiller/react-mind/commit/c8b15d606e2dd3311b61a78b1bfa09cdb00fc1cd))
+* :lipstick: add Blog component ([72692fb](https://github.com/thisisbramiller/react-mind/commit/72692fbe28ff43adfe60c520719f6e656840ac61))
+* :lipstick: add blog container ([816c536](https://github.com/thisisbramiller/react-mind/commit/816c536d8693ebe771bf38bfb49dbfab7749cef8))
+* :lipstick: add border, outline, and cursor to signin button ([79ab231](https://github.com/thisisbramiller/react-mind/commit/79ab2310eb594cf3b4c6f25523d6a56e6f87b660))
+* :lipstick: add brand component ([adad382](https://github.com/thisisbramiller/react-mind/commit/adad3828f5707d9d1cf4ff4f9f1041720bfa2d7c))
+* :lipstick: add brand component ([6733687](https://github.com/thisisbramiller/react-mind/commit/6733687caf713595ab580067958ae7ec1df1ef01))
+* :lipstick: add CSS styles for Navbar component layout and logo sizing ([8682820](https://github.com/thisisbramiller/react-mind/commit/86828207d8a16c129986dcd22b2184e72e894719))
+* :lipstick: add CSS styles for Navbar links and signin button ([eded345](https://github.com/thisisbramiller/react-mind/commit/eded345ea722e1d814ea2a9c82c121622b3d4880))
+* :lipstick: add CSS styles for Navbar links and signin button ([3461bfb](https://github.com/thisisbramiller/react-mind/commit/3461bfbe62898b66a12b6352d840685f5c81dad6))
+* :lipstick: add cta component ([7c8f84d](https://github.com/thisisbramiller/react-mind/commit/7c8f84d77a2de6229c4db9fbaf095b47aa9e4ac7))
+* :lipstick: add CTA component ([9e28766](https://github.com/thisisbramiller/react-mind/commit/9e28766484690943ec7d456b26eb7a7c9a951e22))
+* :lipstick: add feature component ([c034eea](https://github.com/thisisbramiller/react-mind/commit/c034eea6c545742b5c5612d89c93e3ba2dbb10cf))
+* :lipstick: add Features component ([a611fa8](https://github.com/thisisbramiller/react-mind/commit/a611fa8de49a27d8b76acd66c82a0fffbf7cf4bd))
+* :lipstick: add features container ([84eeca8](https://github.com/thisisbramiller/react-mind/commit/84eeca806e5c86e1d1b0199513673c6b85ccd1d7))
+* :lipstick: add Footer component ([7bd25a1](https://github.com/thisisbramiller/react-mind/commit/7bd25a191e8fbefd744fcdd2c07abb053675c41d))
+* :lipstick: add footer container ([1554fed](https://github.com/thisisbramiller/react-mind/commit/1554fed2edd2c7ec5e28d26d1e85707ef14c74e9))
+* :lipstick: add header container ([cb3e949](https://github.com/thisisbramiller/react-mind/commit/cb3e9496ae10485af6a3afd53b64796bbc3c2cee))
+* :lipstick: add links to navbar mobile menu ([63e79f9](https://github.com/thisisbramiller/react-mind/commit/63e79f9a5b77ce905d228a437b4db22c1ad14fd6))
+* :lipstick: add navbar and styling ([3c7fddd](https://github.com/thisisbramiller/react-mind/commit/3c7fddd477c61cd474f8f2c54550931b87d24aca))
+* :lipstick: add navbar component ([7be253e](https://github.com/thisisbramiller/react-mind/commit/7be253e64cb4a45fab56a7c6f0eaadd9074dd3a1))
+* :lipstick: add navigation links to Navbar component in React ([f132068](https://github.com/thisisbramiller/react-mind/commit/f132068d85a021a7e3fc8dfa182fb4774a61167d))
+* :lipstick: add padding and margin ([b735ba9](https://github.com/thisisbramiller/react-mind/commit/b735ba90b9736ad34775a5dc2509727ac22b0f70))
+* :lipstick: add Possibility component ([bfca7a0](https://github.com/thisisbramiller/react-mind/commit/bfca7a018e11fc07bda1aba6ec1484868b8f4453))
+* :lipstick: add possibility container ([dae14f2](https://github.com/thisisbramiller/react-mind/commit/dae14f2b5f78e95105679818639c806023b1a4bc))
+* :lipstick: add radial gradient background to .gradient__bg class in CSS ([0a0dcfd](https://github.com/thisisbramiller/react-mind/commit/0a0dcfd2eb9bfb79da1e15d8c7db4964fdb414d5))
+* :lipstick: add radial gradient background to .gradient__text class in CSS ([50a9ecc](https://github.com/thisisbramiller/react-mind/commit/50a9ecc2014381e5b37bbab0f1d79ea146958bc3))
+* :lipstick: add responsive design to Navbar component with media queries ([a3a024b](https://github.com/thisisbramiller/react-mind/commit/a3a024b4c64bb3e6fb00ddfe6a4656f50a9a639b))
+* :lipstick: add scale-up-center animation to CSS for smooth scaling effects ([dd55165](https://github.com/thisisbramiller/react-mind/commit/dd5516563b727a0ace2973d351cef3cb0a8b6b87))
+* :lipstick: add sign in and sign up buttons ([253b6c2](https://github.com/thisisbramiller/react-mind/commit/253b6c2f6feb099f0ce911681bad09f0524f876f))
+* :lipstick: add sign up and sign in buttons to mobile navbar menu ([f740a74](https://github.com/thisisbramiller/react-mind/commit/f740a740dc6f1cef4bb9917f80e8975b30c86032))
+* :lipstick: add WhatGPT3 component ([b9a49a4](https://github.com/thisisbramiller/react-mind/commit/b9a49a413e9e81efbf444e5837c3aa2f76c791ce))
+* :lipstick: add whatgpt3 container ([b43e4ce](https://github.com/thisisbramiller/react-mind/commit/b43e4ce65cb034954ca8af2efae28bc2b2d3648e))
+* :lipstick: adjust padding and margin for .section__padding and .section__margin classes in responsive design ([4ee63d3](https://github.com/thisisbramiller/react-mind/commit/4ee63d3d4273cdbaeac67ef1240d1f18b116d5c8))
+* :lipstick: apply universal CSS styles for box-sizing, padding, margin, and scroll behavior ([6b91e6b](https://github.com/thisisbramiller/react-mind/commit/6b91e6b9bf1645e517a947b816cc695a3850a356))
+* :lipstick: define CSS variables for font, gradients, and color scheme and set body background color ([d527fc1](https://github.com/thisisbramiller/react-mind/commit/d527fc1029dd341fcc05d7118ebd63efbebcc2fb))
+* :lipstick: remove text decoration and reset color for anchor tags in CSS ([01fb30e](https://github.com/thisisbramiller/react-mind/commit/01fb30eaae050ab3c4e3de4b4dac4775e6c75255))
+* :sparkles: add toggle functionality for Navbar menu ([bb54736](https://github.com/thisisbramiller/react-mind/commit/bb54736a470d26771b356d6a00f1c9d6441b1cde))
+* :tada: npx create-react-app ([c520a01](https://github.com/thisisbramiller/react-mind/commit/c520a01e7442ca98e8558c1dfa2c93d3a19a906a))
+* Add exports for components ([a3dda87](https://github.com/thisisbramiller/react-mind/commit/a3dda87d47c6b6690597f9d864aab454a47e0d84))
+* Add exports for containers ([b652e6e](https://github.com/thisisbramiller/react-mind/commit/b652e6eb09b553c3cbaca158ba16187578aa0de4))
+
+
+### Bug Fixes
+
+* :bug: correct conditional navbar links toggle hidden ([9bd2762](https://github.com/thisisbramiller/react-mind/commit/9bd27623895e1a211e7080fc5a513c60ee0dd93e))
+* :bug: correct navbar spacing ([4ec002c](https://github.com/thisisbramiller/react-mind/commit/4ec002c5426ea6a77aeb475d5c527e2985357337))
+* :bug: fix imports ([337a82a](https://github.com/thisisbramiller/react-mind/commit/337a82abe12ba338432845d0798c8b87c58a6839))
+* :pencil2: fix article.css import typo ([9912973](https://github.com/thisisbramiller/react-mind/commit/9912973a2ab55adb141b19e99edfbbc374fde455))
+
 ## 0.1.0 (2024-03-18)
 
 
