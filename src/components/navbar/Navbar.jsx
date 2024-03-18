@@ -3,6 +3,18 @@ import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import logo from '../../assets/logo.svg'
 import './navbar.css'
 
+const Menu = () => {
+    return (
+        <>
+        <p><a href="#home">Home</a></p>
+        <p><a href="#wgpt3">What is GPT3?</a></p>
+        <p><a href="#possibility">Open AI</a></p>
+        <p><a href="#features">Case Studies</a></p>
+        <p><a href="#blog">Library</a></p>
+        </>
+    )
+}
+
 const Navbar = () => {
     const[toggleMenu, setToggleMenu] = useState(false);
 
@@ -13,11 +25,7 @@ const Navbar = () => {
                     <img src={logo} alt="logo" />
                 </div>
                 <div className="gpt3__navbar-links_container">
-                    <p><a href="#home">Home</a></p>
-                    <p><a href="#wgpt3">What is GPT3?</a></p>
-                    <p><a href="#possibility">Open AI</a></p>
-                    <p><a href="#features">Case Studies</a></p>
-                    <p><a href="#blog">Library</a></p>
+                    <Menu />
                 </div>
                 <div className="gpt3__navbar-sign">
                     <p>Sign in</p>
@@ -31,11 +39,7 @@ const Navbar = () => {
                     {toggleMenu && (
                         <div className="gpt3__navbar-menu_container scale-up-center">
                             <div className="gpt3__navbar-menu_container-links" >
-                                <p><a href="#home">Home</a></p>
-                                <p><a href="#wgpt3">What is GPT3?</a></p>
-                                <p><a href="#possibility">Open AI</a></p>
-                                <p><a href="#features">Case Studies</a></p>
-                                <p><a href="#blog">Library</a></p>
+                                <Menu />
                             </div>
                         </div>
                     )}
