@@ -1,7 +1,7 @@
 import React from 'react';
-import './whatGPT3.css'
+import './whatGPTThree.css'
 
-const WhatGPT3 = () => {
+const WhatGPTThree = () => {
     return (
         <div>
         <h1>WhatGPT3</h1>
@@ -9,4 +9,4 @@ const WhatGPT3 = () => {
     );
 }
 
-export default WhatGPT3;
+export default WhatGPTThree;
