@@ -83,7 +83,7 @@
         flex-direction: column;
     }
     
-    .gpt3__gpt3Description-container .gpt3__gpt3Description-container__feature {
+    .gpt3__gpt3Description-container .gpt3__gpt3Description-container__feature-text {
         margin-top: 0.5rem;
     }
 
