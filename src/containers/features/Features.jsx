@@ -1,5 +1,6 @@
 import React from 'react';
 import './features.css';
+import { Feature } from '../../components';
 
 const featuresData = [
     {
@@ -31,8 +32,7 @@ const Features = () => {
                 {featuresData.map((feature, index) => {
                     return (
                         <div className="gpt3__features-feature" key={index}>
-                            <h1>{feature.title}</h1>
-                            <p>{feature.text}</p>
+                            <Feature title={feature.title} text={feature.text} />
                         </div>
                     );
                     }
