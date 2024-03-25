@@ -6,16 +6,16 @@ const GPTThreeDescription = () => {
     return (
         <div className="gpt3__gpt3Description section__margin" id="gpt3desc">
             <div className="gpt3__gpt3Description-feature">
-                <Feature />
+                <Feature title="What is GPT-3" text="Carrot cake tart sweet gingerbread dessert gingerbread muffin macaroon. Candy cookie cheesecake jelly powder shortbread. Biscuit topping danish bear claw biscuit danish. Muffin lemon drops icing chocolate bar croissant halvah. Soufflé macaroon apple pie pudding macaroon dessert tiramisu toffee tiramisu. ." />
             </div>
             <div className="gpt3__gpt3Description-heading">
                 <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
                 <p>Explore The Library</p>
             </div>
             <div className="gpt3__gpt3Description-container">
-                <Feature />
-                <Feature />
-                <Feature /> 
+                <Feature title="Chatbots" text="Cupcake ipsum dolor sit amet sugar plum. Tiramisu bonbon oat cake dragée gummi bears. Bonbon sugar plum chupa chups cake pie cupcake sugar plum apple pie." />
+                <Feature title="Knowledgebase" text="Ice cream wafer dessert brownie dragée chocolate bar. Bear claw toffee jelly beans gummi bears wafer apple pie cookie. Jelly beans ice cream apple pie jelly toffee marzipan." />
+                <Feature title="Education" text="I love gummi bears I love sweet roll tart lemon drops apple pie. Oat cake wafer candy canes pie gingerbread cheesecake cookie. Croissant bonbon biscuit I love oat cake jujubes. Jelly-o icing liquorice cupcake I love jelly beans soufflé." /> 
             </div>
         </div>
     );
